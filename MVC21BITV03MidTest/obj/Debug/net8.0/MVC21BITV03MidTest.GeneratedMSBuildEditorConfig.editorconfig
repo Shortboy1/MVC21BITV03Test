@@ -1,0 +1,175 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MVC21BITV03MidTest
+build_property.RootNamespace = MVC21BITV03MidTest
+build_property.ProjectDir = D:\Mvc21BITV03MidTest\MVC21BITV03MidTest\MVC21BITV03MidTest\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Mvc21BITV03MidTest\MVC21BITV03MidTest\MVC21BITV03MidTest
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Mvc21BITV03MidTest/MVC21BITV03MidTest/MVC21BITV03MidTest/Views/Cars/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2Fyc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Mvc21BITV03MidTest/MVC21BITV03MidTest/MVC21BITV03MidTest/Views/Cars/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2Fyc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Mvc21BITV03MidTest/MVC21BITV03MidTest/MVC21BITV03MidTest/Views/Cars/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2Fyc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Mvc21BITV03MidTest/MVC21BITV03MidTest/MVC21BITV03MidTest/Views/Cars/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2Fyc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Mvc21BITV03MidTest/MVC21BITV03MidTest/MVC21BITV03MidTest/Views/Cars/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2Fyc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Mvc21BITV03MidTest/MVC21BITV03MidTest/MVC21BITV03MidTest/Views/Customers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Mvc21BITV03MidTest/MVC21BITV03MidTest/MVC21BITV03MidTest/Views/Customers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Mvc21BITV03MidTest/MVC21BITV03MidTest/MVC21BITV03MidTest/Views/Customers/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Mvc21BITV03MidTest/MVC21BITV03MidTest/MVC21BITV03MidTest/Views/Customers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Mvc21BITV03MidTest/MVC21BITV03MidTest/MVC21BITV03MidTest/Views/Customers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Mvc21BITV03MidTest/MVC21BITV03MidTest/MVC21BITV03MidTest/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Mvc21BITV03MidTest/MVC21BITV03MidTest/MVC21BITV03MidTest/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Mvc21BITV03MidTest/MVC21BITV03MidTest/MVC21BITV03MidTest/Views/PartCars/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydENhcnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Mvc21BITV03MidTest/MVC21BITV03MidTest/MVC21BITV03MidTest/Views/PartCars/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydENhcnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Mvc21BITV03MidTest/MVC21BITV03MidTest/MVC21BITV03MidTest/Views/PartCars/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydENhcnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Mvc21BITV03MidTest/MVC21BITV03MidTest/MVC21BITV03MidTest/Views/PartCars/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydENhcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Mvc21BITV03MidTest/MVC21BITV03MidTest/MVC21BITV03MidTest/Views/PartCars/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydENhcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Mvc21BITV03MidTest/MVC21BITV03MidTest/MVC21BITV03MidTest/Views/Parts/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Mvc21BITV03MidTest/MVC21BITV03MidTest/MVC21BITV03MidTest/Views/Parts/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Mvc21BITV03MidTest/MVC21BITV03MidTest/MVC21BITV03MidTest/Views/Parts/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Mvc21BITV03MidTest/MVC21BITV03MidTest/MVC21BITV03MidTest/Views/Parts/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Mvc21BITV03MidTest/MVC21BITV03MidTest/MVC21BITV03MidTest/Views/Parts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Mvc21BITV03MidTest/MVC21BITV03MidTest/MVC21BITV03MidTest/Views/Sales/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Mvc21BITV03MidTest/MVC21BITV03MidTest/MVC21BITV03MidTest/Views/Sales/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Mvc21BITV03MidTest/MVC21BITV03MidTest/MVC21BITV03MidTest/Views/Sales/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Mvc21BITV03MidTest/MVC21BITV03MidTest/MVC21BITV03MidTest/Views/Sales/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Mvc21BITV03MidTest/MVC21BITV03MidTest/MVC21BITV03MidTest/Views/Sales/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Mvc21BITV03MidTest/MVC21BITV03MidTest/MVC21BITV03MidTest/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Mvc21BITV03MidTest/MVC21BITV03MidTest/MVC21BITV03MidTest/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Mvc21BITV03MidTest/MVC21BITV03MidTest/MVC21BITV03MidTest/Views/Suppliers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcGxpZXJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Mvc21BITV03MidTest/MVC21BITV03MidTest/MVC21BITV03MidTest/Views/Suppliers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcGxpZXJzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Mvc21BITV03MidTest/MVC21BITV03MidTest/MVC21BITV03MidTest/Views/Suppliers/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcGxpZXJzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Mvc21BITV03MidTest/MVC21BITV03MidTest/MVC21BITV03MidTest/Views/Suppliers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcGxpZXJzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Mvc21BITV03MidTest/MVC21BITV03MidTest/MVC21BITV03MidTest/Views/Suppliers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcGxpZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Mvc21BITV03MidTest/MVC21BITV03MidTest/MVC21BITV03MidTest/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Mvc21BITV03MidTest/MVC21BITV03MidTest/MVC21BITV03MidTest/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Mvc21BITV03MidTest/MVC21BITV03MidTest/MVC21BITV03MidTest/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-i3y6vrx3wz
